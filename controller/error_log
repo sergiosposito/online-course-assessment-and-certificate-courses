@@ -1,0 +1,54 @@
+[11-Apr-2019 11:18:17 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[11-Apr-2019 11:18:20 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[11-Apr-2019 11:20:35 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:26:07 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'questao1' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:26:17 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'questao1' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:26:49 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'questao1' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:27:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:28:23 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nome' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
+[12-Apr-2019 12:29:55 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'questao1' in 'field list' in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php:16
+Stack trace:
+#0 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php(16): PDOStatement->execute()
+#1 /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/controller/salvaQuestionarioController.php(8): SalvaQuestionario->incluir('curso_gratis', Array)
+#2 {main}
+  thrown in /home/viaha439/havokschool.com.br/curso-gratis/maya-animacao/model/salvaQuestionario.php on line 16
